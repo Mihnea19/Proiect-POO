@@ -20,6 +20,7 @@ private:
 	string date = ""; //date format DD-MM-YY
 	string time = ""; //time format 15:47
 	const string ID; //nominal ticket, corresponds with a unique identification string of 10 characters
+	//test
 
 public:
 	Ticket() { //default constructor
